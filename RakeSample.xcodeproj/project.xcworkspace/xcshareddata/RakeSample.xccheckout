@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>F484CFEA-8A87-4B21-ACB0-218192BFE055</string>
+	<key>IDESourceControlProjectName</key>
+	<string>RakeSample</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>876A0E9A21C8D30CCA2F49006916BB6BBCB76F69</key>
+		<string>https://github.com/lonslonz/cask.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>RakeSample/RakeSample.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>876A0E9A21C8D30CCA2F49006916BB6BBCB76F69</key>
+		<string>../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/lonslonz/cask.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>876A0E9A21C8D30CCA2F49006916BB6BBCB76F69</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>876A0E9A21C8D30CCA2F49006916BB6BBCB76F69</string>
+			<key>IDESourceControlWCCName</key>
+			<string>gitRepo</string>
+		</dict>
+	</array>
+</dict>
+</plist>
